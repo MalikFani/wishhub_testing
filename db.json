@@ -2,7 +2,7 @@
   "homePageModel":[
     {
       "layoutType":0,
-      "layoutTitle":"Banner Slider"
+      "layoutTitle":"Banner Slider",
       "bannerSliderData":[
         {"bannerPath":"https://www.wishhub.pk/theme/image/sliders/Web_Cover_Car_Clock_copy.jpg", "bgColor":"#FFFFFF"},
         {"bannerPath":"https://www.wishhub.pk/theme/image/sliders/Web_Cover_Slider_Watches_copy.jpg", "bgColor":"#000000"},
