@@ -17,10 +17,10 @@
     }
   ],
   
-  "productModel":[
+  "productModel":
     {
       "categoryID":1,
       "subCategoryID":2
     }
-  ]
+  
 }
