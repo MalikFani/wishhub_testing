@@ -2,13 +2,18 @@
   "homePageModel":[
     {
       "layoutType":0,
+      "layoutTitle":"Banner Slider"
       "bannerSliderData":[
-        {"imagePath":"https://www.wishhub.pk/theme/image/sliders/Web_Cover_Car_Clock_copy.jpg", "bgColor":"#FFFFFF"},
-        {"imagePath":"https://www.wishhub.pk/theme/image/sliders/Web_Cover_Slider_Watches_copy.jpg", "bgColor":"#000000"},
-        {"imagePath":"https://www.wishhub.pk/theme/image/sliders/Slider_Web_Cover_Slider_Car_Accessories_copy.jpg", "bgColor":"#FFFFFF"},
-        {"imagePath":"https://www.wishhub.pk/theme/image/sliders/Slider_Web_cover_Women_Fashion_Accessories_copy.jpg", "bgColor":"#FFFFFF"},
-        {"imagePath":"https://www.wishhub.pk/theme/image/sliders/Slider_web_cover_Mobile_Phone_Tablets_Accessories_copy.jpg", "bgColor":"#FFFFFF"}
+        {"bannerPath":"https://www.wishhub.pk/theme/image/sliders/Web_Cover_Car_Clock_copy.jpg", "bgColor":"#FFFFFF"},
+        {"bannerPath":"https://www.wishhub.pk/theme/image/sliders/Web_Cover_Slider_Watches_copy.jpg", "bgColor":"#000000"},
+        {"bannerPath":"https://www.wishhub.pk/theme/image/sliders/Slider_Web_Cover_Slider_Car_Accessories_copy.jpg", "bgColor":"#FFFFFF"},
+        {"bannerPath":"https://www.wishhub.pk/theme/image/sliders/Slider_Web_cover_Women_Fashion_Accessories_copy.jpg", "bgColor":"#FFFFFF"},
+        {"bannerPath":"https://www.wishhub.pk/theme/image/sliders/Slider_web_cover_Mobile_Phone_Tablets_Accessories_copy.jpg", "bgColor":"#FFFFFF"}
       ]
+    },
+    {
+      "layoutType":1,
+      "layoutTitle":"Categories"
     }
   ]
 }
