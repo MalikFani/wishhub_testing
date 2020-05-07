@@ -1,6 +1,6 @@
 {
   "homePageModel":[
-    "layout":{
+    {
       "layoutType":0,
       "bannerSliderData":[
         {"imagePath":"https://www.wishhub.pk/theme/image/sliders/Web_Cover_Car_Clock_copy.jpg", "bgColor":"#FFFFFF"},
