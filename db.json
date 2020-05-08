@@ -54,7 +54,7 @@
     {"categoryID":1, "subCategoryID":20, "subCategoryTitle":"Car Mobile Holders", "imagePath":"https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"}
   ],
   
-  "selectedCategoryProducts":{
+  "selectedCategoryProducts":[
     {
       "imagesPath":["https://www.wishhub.pk/theme/image/product/2715/ATS-0617_Car_Care_Products_Combo_Deal_a.jpg","https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg","https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"],
       "categoryID":2,
@@ -74,6 +74,6 @@
       "promotionText":"Buy 2 or more and save Rs. 100/-",
       "descriptionText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend est eget pharetra pharetra. Nulla dictum nisl quis nulla consectetur varius. Vestibulum dignissim arcu ac erat facilisis, vitae lacinia ligula molestie. Suspendisse consectetur vitae dui nec pulvinar. Sed venenatis tortor non nisl consectetur auctor. Etiam et consequat arcu, at vulputate sapien. Aliquam venenatis auctor orci non vehicula. Nam vehicula mi vel varius suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
-  }
+  ]
   
 }
