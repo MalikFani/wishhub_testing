@@ -18,8 +18,22 @@
   ],
   
   "products":{
-      "categoryID":2,
-      "subCategoryID":2
+    "categoryID":2,
+    "subCategoryID":2,
+    "productID":3,
+    "productTitle":"My Product For Testing",
+    "productPrice":1566,
+    "cuttedPrice":1899,
+    "brandName":"Wish Hub",
+    "productCode":"GO-0007",
+    "averageRatings":4,
+    "totalRatings":"126",
+    "isProductAvailable":true,
+    "isProductVoucherAvailable":true,
+    "isDiscountPercentageVisible":true,
+    "isPromotionAvailable":true,
+    "promotionText":"Buy 2 or more and save Rs. 100/-",
+    "descriptionText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend est eget pharetra pharetra. Nulla dictum nisl quis nulla consectetur varius. Vestibulum dignissim arcu ac erat facilisis, vitae lacinia ligula molestie. Suspendisse consectetur vitae dui nec pulvinar. Sed venenatis tortor non nisl consectetur auctor. Etiam et consequat arcu, at vulputate sapien. Aliquam venenatis auctor orci non vehicula. Nam vehicula mi vel varius suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   }
   
 }
