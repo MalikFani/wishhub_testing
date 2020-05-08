@@ -30,6 +30,30 @@
     {"categoryID":9, "categoryImagePath":"https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg", "categoryTitle":"SPORTS AND FITNESS", "categorySubTitle":"Accessories"}
    ],
   
+  "subCategories":[
+    {"categoryID":1, "subCategoryID":0, "subCategoryTitle":"Car Mobile Holders", "imagePath":"https://www.wishhub.pk/theme/image/product/2715/ATS-0617_Car_Care_Products_Combo_Deal_a.jpg"},
+    {"categoryID":1, "subCategoryID":1, "subCategoryTitle":"Exterior Accessories", "imagePath":"https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg"},
+    {"categoryID":1, "subCategoryID":2, "subCategoryTitle":"Car SMD Lights", "imagePath":"https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"},
+    {"categoryID":1, "subCategoryID":3, "subCategoryTitle":"Car Mobile Holders", "imagePath":"https://www.wishhub.pk/theme/image/product/2715/ATS-0617_Car_Care_Products_Combo_Deal_a.jpg"},
+    {"categoryID":1, "subCategoryID":4, "subCategoryTitle":"Exterior Accessories", "imagePath":"https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg"},
+    {"categoryID":1, "subCategoryID":5, "subCategoryTitle":"Car SMD Lights", "imagePath":"https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"},
+    {"categoryID":1, "subCategoryID":6, "subCategoryTitle":"Car Mobile Holders", "imagePath":"https://www.wishhub.pk/theme/image/product/2715/ATS-0617_Car_Care_Products_Combo_Deal_a.jpg"},
+    {"categoryID":1, "subCategoryID":7, "subCategoryTitle":"Exterior Accessories", "imagePath":"https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg"},
+    {"categoryID":1, "subCategoryID":8, "subCategoryTitle":"Car SMD Lights", "imagePath":"https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"},
+    {"categoryID":1, "subCategoryID":9, "subCategoryTitle":"Car Mobile Holders", "imagePath":"https://www.wishhub.pk/theme/image/product/2715/ATS-0617_Car_Care_Products_Combo_Deal_a.jpg"},
+    {"categoryID":1, "subCategoryID":10, "subCategoryTitle":"Exterior Accessories", "imagePath":"https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg"},
+    {"categoryID":1, "subCategoryID":11, "subCategoryTitle":"Car SMD Lights", "imagePath":"https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"},
+    {"categoryID":1, "subCategoryID":12, "subCategoryTitle":"Car Mobile Holders", "imagePath":"https://www.wishhub.pk/theme/image/product/2715/ATS-0617_Car_Care_Products_Combo_Deal_a.jpg"},
+    {"categoryID":1, "subCategoryID":13, "subCategoryTitle":"Exterior Accessories", "imagePath":"https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg"},
+    {"categoryID":1, "subCategoryID":14, "subCategoryTitle":"Car Mobile Holders", "imagePath":"https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"},
+    {"categoryID":1, "subCategoryID":15, "subCategoryTitle":"Exterior Accessories", "imagePath":"https://www.wishhub.pk/theme/image/product/2715/ATS-0617_Car_Care_Products_Combo_Deal_a.jpg"},
+    {"categoryID":1, "subCategoryID":16, "subCategoryTitle":"Car SMD Lights", "imagePath":"https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg"},
+    {"categoryID":1, "subCategoryID":17, "subCategoryTitle":"Car Mobile Holders", "imagePath":"https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"},
+    {"categoryID":1, "subCategoryID":18, "subCategoryTitle":"Exterior Accessories", "imagePath":"https://www.wishhub.pk/theme/image/product/2715/ATS-0617_Car_Care_Products_Combo_Deal_a.jpg"},
+    {"categoryID":1, "subCategoryID":19, "subCategoryTitle":"Car SMD Lights", "imagePath":"https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg"},
+    {"categoryID":1, "subCategoryID":20, "subCategoryTitle":"Car Mobile Holders", "imagePath":"https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"}
+  ],
+  
   "productModel":{
     "imagesPath":["https://www.wishhub.pk/theme/image/product/2715/ATS-0617_Car_Care_Products_Combo_Deal_a.jpg","https://www.wishhub.pk/theme/image/product/414/Go-0001_(3)1.jpg","https://www.wishhub.pk/theme/image/product/247/ATS-0141_061.jpg"],
     "categoryID":2,
