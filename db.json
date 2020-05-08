@@ -17,7 +17,7 @@
     }
   ],
   
-  "products":{
+  "productModel":{
     "categoryID":2,
     "subCategoryID":2,
     "productID":3,
